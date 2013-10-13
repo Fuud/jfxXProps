@@ -1,0 +1,12 @@
+# idea projects #
+#################
+*.ipr
+*.iml
+*.iws
+*.log
+atlassian-ide-plugin.xml
+
+# maven output #
+################
+target
+.idea
